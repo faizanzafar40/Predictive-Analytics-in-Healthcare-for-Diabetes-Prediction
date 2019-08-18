@@ -1,0 +1,37 @@
+Metadata-Version: 2.0
+Name: mlens
+Version: 0.2.2
+Summary: Machine Learning Ensemble Library
+Home-page: https://github.com/flennerhag/mlens
+Author: Sebastian Flennerhag
+Author-email: sebastianflennerhag@hotmail.com
+License: MIT
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Dist: numpy (>=1.11)
+Requires-Dist: scipy (>=0.17)
+
+
+A library for memory efficient parallelized Ensemble learning
+
+Documentation available at:
+    - http://mlens.readthedocs.io/en/latest/
+    - https://github.com/flennerhag/mlens
+
+Contact
+=======
+For questions and comments reach out to sebastianflennerhag@hotmail.com.
+
+This project is hosted at https://github.com/flennerhag/mlens
+
+
