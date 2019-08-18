@@ -51,7 +51,7 @@ This runs the main_code.py file with the default settings for all parameters.
 
 ## Citation
 
-If you have found our code and paper useful, we humbly request you to cite our work:
+If you found our code and paper useful, we humbly request you to cite our work:
 ```tex
 @inproceedings{Zafar:2019:PAH:3326172.3326213,
  author = {Zafar, Faizan and Raza, Saad and Khalid, Muhammad Umair and Tahir, Muhammad Ali},
