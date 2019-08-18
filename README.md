@@ -30,8 +30,8 @@ Diabetes mellitus type 2 is a chronic disease which poses a serious challenge to
  
 ## Dataset
 
-Create a directory called `input` inside the parent directory containing the project files. Download the data from this 
-[link](https://www.kaggle.com/uciml/pima-indians-diabetes-database) and place it in the `input` folder.
+Create a directory called `input` inside the parent directory containing the project files. Download the dataset from this 
+[link](https://www.kaggle.com/uciml/pima-indians-diabetes-database) and place it in the `input` directory.
 
 ## Running the code
 
@@ -47,7 +47,7 @@ Then, run the main project file:
 python main_code.py
 ```
 
-This will run the main_code.py file with the default settings for all the parameters.
+This runs the main_code.py file with the default settings for all parameters.
 
 ## Citation
 
@@ -77,4 +77,4 @@ The paper is available at: [https://doi.org/10.1145/3326172.3326213](https://doi
 
 ## Questions?
 
-If you have any questions, regarding the code or dataset, you can contact me at (14besefzafar@seecs.edu.pk), or even better, open an issue in this repo and we will do our best to help.
+If you have any questions regarding the code or dataset, you can contact me at (14besefzafar@seecs.edu.pk), or even better, open an issue in this repo and we will do our best to help.
