@@ -6,7 +6,7 @@ This repository includes the code for the paper:
 
 '**Predictive Analytics in Healthcare for Diabetes Prediction**', In Proceedings of the 2019 9th International Conference on Biomedical Engineering and Technology (ICBET' 19). ACM, New York, NY, USA, 253-259. 2019. [[DOI]](https://doi.org/10.1145/3326172.3326213)
 
-The code has been built in Python 3.7.0 and requires the following dependencies before it can be run:
+The code has been built in Python 3.7.0 and requires the following dependencies to run:
 ```
 numpy 1.15.1
 matplotlib 3.0.0
