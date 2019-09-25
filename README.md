@@ -2,7 +2,7 @@
 
 [Faizan Zafar](https://faizanzafar40.github.io/), Saad Raza, Muhammad Umair Khalid, Muhammad Ali Tahir 
 
-This repository includes the code for the paper:
+This repository includes source code for the paper:
 
 '**Predictive Analytics in Healthcare for Diabetes Prediction**', In Proceedings of the 2019 9th International Conference on Biomedical Engineering and Technology (ICBET' 19). ACM, New York, NY, USA, 253-259. 2019. [[DOI]](https://doi.org/10.1145/3326172.3326213)
 
